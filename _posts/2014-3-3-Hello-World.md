@@ -3,7 +3,9 @@ layout: post
 title: You're up and running!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+## Hello World!
+
+This is a test to figure out just exactly how to get jekyll to build a page on Github pages, and to do it right!  Right now the page is accessible but there's no styling to it.  I'm gonna try and create another jekyll post and see what that looks like.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
